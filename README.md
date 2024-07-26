@@ -7,13 +7,13 @@ This project provides a comprehensive dashboard for visualizing hospital visit d
 
 **Requirements:**
 
-**1. KPIs and Trends:** Identify and present the key performance indicators (KPIs) and significant trends in the 
+1. KPIs and Trends: Identify and present the key performance indicators (KPIs) and significant trends in the 
 dataset. 
-**2. Detailed Analysis:** Ensure the analysis is thorough and 
+2. Detailed Analysis: Ensure the analysis is thorough and 
 detailed, covering all relevant aspects of the healthcare 
 center's finance and the performance of healthcare 
 providers. 
-**3. Dashboard Creation:** Create a comprehensive 
+3. Dashboard Creation: Create a comprehensive 
 dashboard consisting of 3 to 4 pages that includes: - Financial Overview: Summarize the financial health of 
 the healthcare center. 
 - Provider Insights: Analyze the performance and 
